@@ -26,7 +26,11 @@
 
 <img src="client/src/images/readme2.png" width="400"/>
 
-k{AR}aoke features song and lyric videos with an Augmented Reality twist.  Each song has a unique effect that makes you the star of a real-time music video!  Be sure to refresh time after time so you can perform all four songs.  Dont want the fun to end?  Take a screenshot during your performance so you can relive that aha! moment!
+k{AR}aoke features song and lyric videos with an Augmented Reality twist, allowing users to experience the fun of a karaoke room, while staying safely at home! Featuring the machine learning ML5.js Posenet model and p5.js library, the client web cam becomes their portal to AR karaoke fun, as costumes or filters are applied with each song selection.  As users enjoy  belting it out, free from judgement and covid variants, they can grab a screenshot of themselves in costume to share on their social media platform of choice.
+
+Frontend Technologies: React.js, react-router-dom, react-bootstrap, react-p5-wrapper, react-scripts, ml5.js, p5.js, bootstrap, axios, sweetalert2
+
+Backend Technologies: mongoDB, mongoose, express, node, bcrypt
 
 --- 
  
@@ -79,7 +83,7 @@ After approval, please follow the "fork-and-pull" Git workflow.
 
 ___
 
-### _Github:_ [k{AR}oke](https://github.com/Athear/kARaoke)
+### _Github:_ [k{AR}oke](https://github.com/jnel-221/kARaoke)
 
 
 ### _Heroku Deployment:_[k{AR}oke LIVE](https://just-duet-karaoke.herokuapp.com/)
